@@ -1,0 +1,19 @@
+# Fichiers générés par Visual Studio Code
+.vscode/
+.settings/
+
+# Fichier de configuration de l'éditeur
+.editorconfig
+
+# Fichiers de sauvegarde
+*~
+*.swp
+
+# Fichiers de cache
+.cache/
+
+# Fichiers spécifiques à un utilisateur
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.DS_Store
