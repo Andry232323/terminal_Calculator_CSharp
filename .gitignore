@@ -17,3 +17,6 @@
 *.sublime-workspace
 *.idea/
 *.DS_Store
+
+#Zip du resultat
+bin\Debug\net7.0\publish\calculatrice.zip
